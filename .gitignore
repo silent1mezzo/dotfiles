@@ -1,0 +1,10 @@
+*.pyc
+*.log
+*.sql.gz
+CACHE
+build
+*.xml
+*.csv
+*log.txt
+*.pid
+celerybeat*
