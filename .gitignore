@@ -10,3 +10,5 @@ build
 *log.txt
 *.pid
 celerybeat*
+*.sublime-project
+*.sublime-workspace
